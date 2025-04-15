@@ -1,4 +1,4 @@
-// 🐺 GOTH SUMMONER - JavaScript Edition (using readline)
+// 🐺 GOTH SUMMONER - JavaScript Edition
 
 const readline = require("readline");
 
